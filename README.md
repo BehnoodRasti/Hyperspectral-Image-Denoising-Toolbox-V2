@@ -4,7 +4,7 @@ This toolbox contains the following HSI denoising methods: 3D Wavelets,FORPDN, a
 [SSTV](https://www.mathworks.com/matlabcentral/fileexchange/49145-mixed-noise-reduction),
 [NAIRLMA](https://sites.google.com/site/rshewei/home),
 [FastHyDe](https://github.com/LinaZhuang/FastHyDe_FastHyIn),
-[DIP](https://github.com/DmitryUlyanov/deep-image-prior), and [SDeCNN](https://github.com/mhaut/HSI-SDeCNN). For SDeCNN, only replace the Indian.mat which has 206 bands with one which we used with 220 bands (The link is given below).
+[DIP](https://github.com/DmitryUlyanov/deep-image-prior), and [SDeCNN](https://github.com/mhaut/HSI-SDeCNN). For SDeCNN, only replace the Indian.mat which has 206 bands with the one that we used with 220 bands (The link is given below).
 For DIP, you need to download the original toolbox and copy the python file (DN4Rev_Real.py) into the master folder (change the path, line 48 of DN4Rev_Real.py, to the mat file of Indian Pine) and run. Addtionally, you need to install the dependencies (see [readme](https://github.com/DmitryUlyanov/deep-image-prior)) 
 
 
