@@ -11,5 +11,5 @@ For DIP, you need to download the original toolbox and copy the python file (DN4
 
 To reproduce the resutls below you can find the Indian Pines dataset in [Hyperspectral Image Denoising Matlab Toolbox](https://www.researchgate.net/publication/328027880_Hyperspectral_Image_Denoising_Matlab_Toolbox) and use the matlab and python demos provided to run the codes
 
-![image](https://user-images.githubusercontent.com/61419984/123767477-c6c7b380-d8c7-11eb-9bd0-1fa3b746351a.png)
+![image](https://user-images.githubusercontent.com/61419984/125260332-88d38200-e300-11eb-90a6-90f2285135aa.png)
 
