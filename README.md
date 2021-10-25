@@ -3,7 +3,7 @@
 Here we provide the resources to reproduce the resutls presented in the following article
 
 Rasti, B., Ghamisi, P., "Hyperspectral Denoising: From Conventional Techniques Towards Deep Learning Ones", 
-1st workshop on Complex Data Challenges in Earth Observation (CDCEO)1-4 Oct. 2021.
+1st workshop on Complex Data Challenges in Earth Observation (CDCEO)1 Nov. 2021.
 
 The following HSI denoising methods: 3D Wavelets,FORPDN, and HyRes all can be found in
 [Hyperspectral Image Denoising Matlab Toolbox](https://www.researchgate.net/publication/328027880_Hyperspectral_Image_Denoising_Matlab_Toolbox),
