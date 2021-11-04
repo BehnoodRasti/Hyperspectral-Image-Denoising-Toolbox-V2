@@ -1,6 +1,6 @@
 # Hyperspectral-Image-Denoising-Toolbox-V2
 
-Here we provide the resources to reproduce the resutls presented in the following article
+Here we provide the resources to reproduce the results presented in the following article
 
 Rasti, B., Ghamisi, P., "Hyperspectral Denoising: From Conventional Techniques Towards Deep Learning Ones", 
 1st workshop on Complex Data Challenges in Earth Observation (CDCEO)1 Nov. 2021.
